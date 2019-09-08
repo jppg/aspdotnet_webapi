@@ -1,0 +1,14 @@
+C:\Users\joao.godinho\Documents\MIND_SOURCE\_LAB\Repos\github\jppg\aspdotnet_webapi\bin\Debug\netcoreapp2.2\aspdotnet_webapi.deps.json
+C:\Users\joao.godinho\Documents\MIND_SOURCE\_LAB\Repos\github\jppg\aspdotnet_webapi\bin\Debug\netcoreapp2.2\aspdotnet_webapi.runtimeconfig.json
+C:\Users\joao.godinho\Documents\MIND_SOURCE\_LAB\Repos\github\jppg\aspdotnet_webapi\bin\Debug\netcoreapp2.2\aspdotnet_webapi.runtimeconfig.dev.json
+C:\Users\joao.godinho\Documents\MIND_SOURCE\_LAB\Repos\github\jppg\aspdotnet_webapi\bin\Debug\netcoreapp2.2\aspdotnet_webapi.dll
+C:\Users\joao.godinho\Documents\MIND_SOURCE\_LAB\Repos\github\jppg\aspdotnet_webapi\bin\Debug\netcoreapp2.2\aspdotnet_webapi.pdb
+C:\Users\joao.godinho\Documents\MIND_SOURCE\_LAB\Repos\github\jppg\aspdotnet_webapi\obj\Debug\netcoreapp2.2\aspdotnet_webapi.csprojAssemblyReference.cache
+C:\Users\joao.godinho\Documents\MIND_SOURCE\_LAB\Repos\github\jppg\aspdotnet_webapi\obj\Debug\netcoreapp2.2\aspdotnet_webapi.csproj.CoreCompileInputs.cache
+C:\Users\joao.godinho\Documents\MIND_SOURCE\_LAB\Repos\github\jppg\aspdotnet_webapi\obj\Debug\netcoreapp2.2\aspdotnet_webapi.RazorAssemblyInfo.cache
+C:\Users\joao.godinho\Documents\MIND_SOURCE\_LAB\Repos\github\jppg\aspdotnet_webapi\obj\Debug\netcoreapp2.2\aspdotnet_webapi.RazorAssemblyInfo.cs
+C:\Users\joao.godinho\Documents\MIND_SOURCE\_LAB\Repos\github\jppg\aspdotnet_webapi\obj\Debug\netcoreapp2.2\aspdotnet_webapi.AssemblyInfoInputs.cache
+C:\Users\joao.godinho\Documents\MIND_SOURCE\_LAB\Repos\github\jppg\aspdotnet_webapi\obj\Debug\netcoreapp2.2\aspdotnet_webapi.AssemblyInfo.cs
+C:\Users\joao.godinho\Documents\MIND_SOURCE\_LAB\Repos\github\jppg\aspdotnet_webapi\obj\Debug\netcoreapp2.2\aspdotnet_webapi.RazorTargetAssemblyInfo.cache
+C:\Users\joao.godinho\Documents\MIND_SOURCE\_LAB\Repos\github\jppg\aspdotnet_webapi\obj\Debug\netcoreapp2.2\aspdotnet_webapi.dll
+C:\Users\joao.godinho\Documents\MIND_SOURCE\_LAB\Repos\github\jppg\aspdotnet_webapi\obj\Debug\netcoreapp2.2\aspdotnet_webapi.pdb
